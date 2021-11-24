@@ -19,6 +19,7 @@ Set at 10%  NSFW limit
 <img width="200" alt="Screen Shot 2021-11-24 at 12 52 26 AM" src="https://user-images.githubusercontent.com/48665751/143205526-73a12413-fcb5-434a-8813-1109448e8b01.png">
 
 Output at 10% NSFW limit
+
 <img width="800" alt="Screen Shot 2021-11-24 at 12 50 24 AM" src="https://user-images.githubusercontent.com/48665751/143205249-8a9aff68-422f-47d4-83cd-149ad02f0d9f.png">
 
 
